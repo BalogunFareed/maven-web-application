@@ -13,7 +13,7 @@
 <h1 align="center">Landmark Software Solutions (LSS)  is developing and supporting quality Software Solutions for millions of clients.
         Landmark Technologies, the Pride of Africa.
         Class41 DevOps MasterClass will start on September 20, 2025.
-        Please invite all your contacts and friends to this life-changing course.
+        Please refer all your contacts and friends to this life-changing course.
 </h1>
 <hr>
 <br>
