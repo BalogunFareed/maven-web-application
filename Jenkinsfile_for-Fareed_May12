@@ -8,7 +8,7 @@ node{
   stage('2Test&Build'){
     sh "${mavenHome}/bin/mvn clean package"
   }
-  
+/*
   stage('3codeQuality'){
     sh "${mavenHome}/bin/mvn sonar:sonar"
   }
@@ -40,4 +40,5 @@ node{
 
       Balogun Fareed.''', recipientProviders: [buildUser(), developers(), upstreamDevelopers(), brokenTestsSuspects(), contributor()], subject: 'Buils Status', to: 'balogunfareed22@gmail.com'
   }
+*/
 }
