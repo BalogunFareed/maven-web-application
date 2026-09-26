@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%@ page import="java.net.*" %>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html>
+<html lang="en">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>LandmarkTechnologies- Home Page</title>
@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Tesla Web application Project.</h1>
-<h1 align="center">Landmark Software Solutions (LSS)  is developing and supporting quality Software Solutions for millions of clients.
+<h1 style="text-align: center;">Welcome to Landmark Tesla Web application Project.</h1>
+<h1 style="text-align: center;">Landmark Software Solutions (LSS)  is developing and supporting quality Software Solutions for millions of clients.
         Landmark Technologies, the Pride of Africa.
         Class41 DevOps MasterClass will start on September 20, 2025.
         Please invite all your contacts and friends to this life-changing course.
@@ -48,8 +48,8 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center> Landmark Technologies - Consultant, Training and Software Development</p>
-<p align=center><small>Copyrights 2021 by <a href="http://mylandmarktech.com/">Landmark Technologies</a> </small></p>
+<p style="text-align: center;"> Landmark Technologies - Consultant, Training and Software Development</p>
+<p style="text-align: center;"><small>Copyrights 2021 by <a href="http://mylandmarktech.com/">Landmark Technologies</a> </small></p>
 
 </body>
 </html>
